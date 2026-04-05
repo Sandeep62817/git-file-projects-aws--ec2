@@ -3,6 +3,6 @@
 
 print(2+3)
 
-
+print(10-5)
 
 print("How r u sandeep")
