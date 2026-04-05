@@ -7,4 +7,8 @@ print(10-5)
 
 print(5*6)
 
+
 print("How r u sandeep")
+
+
+print("This is calculator")
