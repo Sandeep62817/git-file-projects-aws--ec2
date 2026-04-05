@@ -10,3 +10,6 @@ print(5*6)
 print(5%2)
 
 print("How r u sandeep")
+
+
+print("This is calculator")
