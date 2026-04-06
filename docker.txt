@@ -1,0 +1,9 @@
+hi this docker file 
+i am ready to explain about in this file very deep and step by step
+
+are you willing to learn docker 
+
+firstly you have knowledge on aws , cloud service like that
+
+and in aws u need have knowledge on ec2 instances, s3. vpc, cloudfron, cloud fromation ,aws cli.
+
